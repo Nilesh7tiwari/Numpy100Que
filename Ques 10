@@ -1,0 +1,2 @@
+Exercise 10
+Using Numpy, create an array 10x10 filled with number 255 and set the data type to float. Print this array to the console as shown below
